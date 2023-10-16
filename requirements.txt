@@ -1,0 +1,5 @@
+transformers==4.27.4
+tqdm
+torch==2.0.0
+nltk
+mmengine==0.9.0
