@@ -1,6 +1,6 @@
 # ToxificationReversal
 Code for the paper "Self-Detoxifying Language Models via Toxification Reversal" (EMNLP 2023)
-[arxiv]
+[[arxiv](https://arxiv.org/abs/2310.09573)]
 
 ![](assets/intro_fig.png)
 
